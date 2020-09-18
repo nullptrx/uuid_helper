@@ -1,7 +1,7 @@
 # uuid_helper
 
 [![pub package](https://img.shields.io/pub/v/uuid_helper.svg)](https://pub.dartlang.org/packages/uuid_helper) [![Licence](https://img.shields.io/github/license/nullptrX/uuid_helper)](https://github.com/nullptrX/uuid_helper/blob/master/LICENSE)
-https://travis-ci.org/Daegalus/dart-uuid
+
 ## Introduction
 
 A flutter plugin for generating a unique id
