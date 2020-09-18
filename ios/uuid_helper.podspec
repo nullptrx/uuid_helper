@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'uuid_helper'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'A flutter plugin for generating a unique id'
   s.description      = <<-DESC
 A flutter plugin for generating a unique id
