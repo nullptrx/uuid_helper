@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Remove unused resources
+
 ## 0.0.2
 
 * Update README
