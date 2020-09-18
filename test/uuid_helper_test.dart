@@ -17,7 +17,7 @@ void main() {
     channel.setMockMethodCallHandler(null);
   });
 
-  test('getPlatformVersion', () async {
-    expect(await UuidHelper.platformVersion, '42');
+  test('getUniqueId', () async {
+    assert(await UUIDHelper.getUniqueId() != null);
   });
 }
