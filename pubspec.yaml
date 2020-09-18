@@ -1,7 +1,6 @@
 name: uuid_helper
 description: A flutter plugin for generating a unique id.
 version: 0.0.1
-author: nullptrX
 homepage: https://github.com/nullptrX/uuid_helper
 
 environment:
