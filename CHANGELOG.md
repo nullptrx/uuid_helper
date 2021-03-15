@@ -1,3 +1,7 @@
+## 1.0.0
+
+* null-safety
+
 ## 0.0.3
 
 * Remove unused resources
